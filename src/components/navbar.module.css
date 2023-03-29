@@ -1,0 +1,25 @@
+.main {
+  background-color: #f14747;
+ 
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+
+  
+}
+
+.navbarmain {
+  display: flex;
+  gap: 8px;
+  text-transform: capitalize;
+  
+}
+.anchor {
+  padding: 5px 10px;
+  cursor: pointer;
+  text-decoration: none;
+   color: rgb(255, 255, 255);
+}
